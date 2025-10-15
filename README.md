@@ -117,7 +117,7 @@ All aliases must map to a valid channel in the catalogue. The UI will help valid
 
 ## 🙏 Acknowledgements
 
-Special thanks to the open-source libraries that made this possible. Built with ❤️ by Kaushal Sambanna.
+Special thanks to the open-source libraries that made this possible. Built by Kaushal Sambanna and Sanjana Jhansi
 
 ---
 
